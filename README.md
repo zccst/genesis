@@ -1,0 +1,2 @@
+# genesis
+save genesis file
